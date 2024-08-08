@@ -11,3 +11,4 @@ Unregistered/non-logged users have access only to the Home page of The App, with
 Registered/logged users have access to main functionalities, including Profile editing, Food creation, and Food management.
 
 **Test Cases- **
+[Test-case-template-xls.xls](https://github.com/user-attachments/files/16552108/Test-case-template-xls.xls)
